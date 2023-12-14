@@ -1,5 +1,5 @@
 **INTRODUCTION**:
-My final project was to develop an end-to-end data analytics solution to address their data management needs and provide valuable insights. My task was to design this data analytics solution by leveraging available analytics frameworks.
+My final project was to develop an end-to-end data analytics solution to address Company A data management needs and provide valuable insights. My task was to design this data analytics solution by leveraging available analytics frameworks.
 
 **Excel Concept/ PowerBI Concept/SQL Concept**:
 Data inspection: Creating data base,Generating report using SQL: DAX concept, Calculated column, Creating relationships, Data modelling and Data visualization 
