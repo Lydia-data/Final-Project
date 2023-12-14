@@ -15,5 +15,5 @@ What is the average number of special requests made by customers for different r
 What is the average lead time for bookings made through travel agents compared to tour operators?
 
 **Data Sourcing**:
-I downloaded the csv file 
+I downloaded the csv file and imported it into Excel for the purposes of inspecting then i proceeded to SQL to answered the above questions problem statement using querries and finally proceeded to Power BI using Dax concept, calculated column, analyzing and visualizing the data.
 
